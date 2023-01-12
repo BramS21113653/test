@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44402",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/bramsteenkamp/wdpr/test/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
